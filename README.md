@@ -1,16 +1,35 @@
-# Welcome to HyunHo Github! 👋
+# Welcome to **HyunHo** Github! 👋
 
-<!--
-**YunHyunHo/YunHyunHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="margin: 30px 0;">
+<h2>🧑🏻 Profile  </h2>
+<p>⚒ 디온랩 (2021.10 ~ 2022.12)</p>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h2 style="text-align: center; font-size: 30px;">Skill</h2>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"  height="28"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"  height="28"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"  height="28"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"  height="28"/></br></br>
+<a href="https://www.notion.so/b57591c01ac54c5a8e3ff7b4e46eec8c">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"  height="28"/>
+</a>
+<a href="https://www.notion.so/b57591c01ac54c5a8e3ff7b4e46eec8c">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"  height="28"/>
+</a>2
+</div>
+
+#
+
+<div align="center" style="margin-top: 30px;">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunHyunHo&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHyunHo&layout=compact&langs_count=5&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
+<br>
+<br>
