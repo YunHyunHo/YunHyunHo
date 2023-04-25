@@ -16,14 +16,22 @@
 <a href="https://www.notion.so/b57591c01ac54c5a8e3ff7b4e46eec8c">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"  height="28"/>
 </a>
-<a href="https://www.notion.so/b57591c01ac54c5a8e3ff7b4e46eec8c">
+<a href="https://github.com/YunHyunHo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"  height="28"/>
-</a>2
+</a>
 </div>
 
-#
+<div align="center" style="margin: 30px 0;">
 
-<div align="center" style="margin-top: 30px;">
+## 👨‍👨‍👦‍👦Projects
+|                                              Project                                              |       Tech Stack       |  Year |
+| :-----------------------------------------------------------------------------------------------: | :--------------------: |  :--: |
+| [Kream 클론코딩](https://github.com/YunHyunHo/KreamClone) |       javascript, React        | 2023 |
+|       [두루누비 퍼블리싱](https://www.durunubi.kr/)      |               HTML, CSS, SASS            |   2020 |
+
+</div>
+
+<div align="center" >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunHyunHo&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHyunHo&layout=compact&langs_count=5&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
