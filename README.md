@@ -26,7 +26,7 @@
 ## 👨‍👨‍👦‍👦Projects
 |                                              Project                                              |       Tech Stack       |  Year |
 | :-----------------------------------------------------------------------------------------------: | :--------------------: |  :--: |
-| [Kream 클론코딩](https://github.com/YunHyunHo/KreamClone) |       javascript, React        | 2023 |
+| [Kream 클론코딩](https://github.com/YunHyunHo/kreame) |       javascript, React        | 2023 |
 |       [두루누비 퍼블리싱](https://www.durunubi.kr/)      |               HTML, CSS, SASS            |   2020 |
 
 </div>
