@@ -3,6 +3,7 @@
 <div align="center" style="margin: 30px 0;">
 <h2>🧑🏻 Profile  </h2>
 <p>⚒ 디온랩 (2021.10 ~ 2022.12)</p>
+<p>⚒ 웨이브 (2023.5 ~ 재직중)</p>
 </div>
 
 
