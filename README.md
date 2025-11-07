@@ -28,6 +28,7 @@
 ## 👨‍👨‍👦‍👦Projects
 |                                              Project                                              |       Tech Stack       |  Year |
 | :-----------------------------------------------------------------------------------------------: | :--------------------: |  :--: |
+| [테더베이스](https://tetherbase.io/) |       typescript, next.js        | 2025 |
 | [Kream 클론코딩](https://github.com/YunHyunHo/kreame) |       javascript, React        | 2023 |
 |       [두루누비 퍼블리싱](https://www.durunubi.kr/)      |               HTML, CSS, SASS            |   2022 |
 
